@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">Capstone</string>
+    <string name="app_name">Movie Catalog</string>
+
+    <!-- Navigation -->
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Settings</string>
+
+    <!-- Home -->
+    <string name="hint_search">Search movies…</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="retry">Try Again</string>
+
+    <!-- Movie -->
+    <string name="no_overview">No overview available.</string>
+    <string name="overview">Overview</string>
+    <string name="rating_format">%1$s / 10</string>
+    <string name="poster">Movie poster</string>
+    <string name="backdrop">Movie backdrop</string>
+    <string name="rating">Rating</string>
+
+    <!-- Favorite -->
+    <string name="add_favorite">Add to favorite</string>
+    <string name="remove_favorite">Remove from favorite</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="removed_from_favorite">Removed from favorite</string>
+
+    <!-- Setting -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_description">Use a dark theme across the app</string>
+    <string name="back">Back</string>
 </resources>

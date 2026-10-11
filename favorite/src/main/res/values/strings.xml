@@ -1,0 +1,4 @@
+<resources>
+    <string name="favorite_empty_title">No favorite movies yet</string>
+    <string name="favorite_empty_description">Tap the heart button on a movie detail page to save it here.</string>
+</resources>

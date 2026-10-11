@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="md_primary">#FF4355B9</color>
+    <color name="md_on_primary">#FFFFFFFF</color>
+    <color name="md_primary_container">#FFDEE0FF</color>
+    <color name="md_on_primary_container">#FF00105C</color>
+    <color name="md_secondary">#FF5B5D72</color>
+    <color name="md_on_secondary">#FFFFFFFF</color>
+    <color name="md_secondary_container">#FFE0E1F9</color>
+    <color name="md_on_secondary_container">#FF181A2C</color>
+    <color name="md_tertiary">#FF7B5800</color>
+    <color name="md_on_tertiary">#FFFFFFFF</color>
+    <color name="md_tertiary_container">#FFFFDEA8</color>
+    <color name="md_on_tertiary_container">#FF271900</color>
+    <color name="md_error">#FFBA1A1A</color>
+    <color name="md_on_error">#FFFFFFFF</color>
+    <color name="md_background">#FFFEFBFF</color>
+    <color name="md_on_background">#FF1B1B1F</color>
+    <color name="md_surface">#FFFEFBFF</color>
+    <color name="md_on_surface">#FF1B1B1F</color>
+    <color name="md_surface_variant">#FFE3E1EC</color>
+    <color name="md_on_surface_variant">#FF46464F</color>
+    <color name="md_outline">#FF767680</color>
+    <color name="md_surface_container_lowest">#FFFFFFFF</color>
+    <color name="md_surface_container_low">#FFF6F4FA</color>
+    <color name="md_surface_container">#FFF0EEF4</color>
+    <color name="md_surface_container_high">#FFEAE8EE</color>
+    <color name="md_surface_container_highest">#FFE4E2E8</color>
+
+    <!-- Same in light and dark: used over movie backdrop images. -->
+    <color name="detail_scrim">#FF1A1C2E</color>
+    <color name="rating_star">#FFFFB300</color>
 </resources>

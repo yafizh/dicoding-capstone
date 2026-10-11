@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Capstone"
 include(":app")
+include(":core")
+include(":favorite")
